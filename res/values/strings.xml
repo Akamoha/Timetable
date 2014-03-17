@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Timetable</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="dummy">-</string>
+    <string name="topbartext">AkaDroid Timetable Y1 S2</string>
+    <string name="hour">Time:</string>
+    <string name="classnumber">Class:</string>
+    <string name="course">Course:</string>
+    <string name="lpt">L/P/T:</string>
+    <string name="hour1">8 to 9</string>
+    <string name="hour2">9 to 10</string>
+    <string name="hour3">10 to 11</string>
+    <string name="hour4">11 to 12</string>
+    <string name="hour5">12 to 1</string>
+    <string name="hour6">1 to 2</string>
+    <string name="hour7">2 to 3</string>
+    <string name="hour8">3 to 4</string>
+    <string name="hour9">4 to 5</string>
+    <string name="hour10">5 to 7</string>
+    <string name="todaytext">Back To Today</string>
+    <string name="edit">Edit</string>
+    <string name="done">Done</string>
+    <string name="enter">Enter</string>
+    <string name="tap">Tap any field to edit</string>
+    <string name="hint">Enter input</string>
+
+</resources>
